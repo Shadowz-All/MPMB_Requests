@@ -9,7 +9,7 @@
     Subject:	SubClass
     Effect:		This script adds the Mage Hand Press "Way of the SwordSage" subclass.
     Code by:	ShadowzAll
-    Date:		2025-09-0328
+    Date:		2025-09-28
 */
 var iFileName = "MHP_Monk_SwordSage.js";
 
@@ -174,4 +174,5 @@ AddSubClass("monk", "way of the swordsage", {
 		},
 		
 	},
+
 })
