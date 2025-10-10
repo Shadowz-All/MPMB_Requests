@@ -11,7 +11,7 @@ var iFileName = "NAT19-Petal Knight.js";
 RequiredSheetVersion("13.2.3");
 
 /*	-SCRIPT AUTHOR NOTE-
-    This file should be installed AFTER the other 2024 PHB & DMG scripts made by ThePokésimmer (if using 2024 rules).
+    This file should be installed BEFORE the other 2024 PHB & DMG scripts made by ThePokésimmer (if using 2024 rules).
 */
 
 // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> //
@@ -724,3 +724,4 @@ AddSubClass("petal knight", "pink rose", {
 
       }
 });
+
