@@ -11,7 +11,7 @@ SourceList["WotSM"] = {
 	name: "Way of the Spider - Monk Subclass V5",
 	abbreviation: "WotSM",
 	group: "Homebrew",
-	date: "2024/01/01"
+	date: "2026/11/19"
 };
 
 AddSubClass("monk", "way of the spider", {
